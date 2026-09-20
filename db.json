@@ -1,7 +1,52 @@
 {
   "transactions": [
-    { "id": 1, "title": "Salário", "value": 100, "type": "income" },
-    { "id": 2, "title": "VA", "value": 50, "type": "income" },
-    { "id": 3, "title": "Aluguel", "value": 150, "type": "outcome" }
+    {
+      "id": 1,
+      "title": "Salário",
+      "value": 100,
+      "type": "income"
+    },
+    {
+      "id": 2,
+      "title": "VA",
+      "value": 50,
+      "type": "income"
+    },
+    {
+      "id": 3,
+      "title": "Aluguel",
+      "value": 150,
+      "type": "outcome"
+    },
+    {
+      "title": "te",
+      "type": "outcome",
+      "value": 0.5,
+      "id": 4
+    },
+    {
+      "title": "ju",
+      "type": "income",
+      "value": 0.22,
+      "id": 5
+    },
+    {
+      "title": "iooi",
+      "type": "outcome",
+      "value": 465.2,
+      "id": 6
+    },
+    {
+      "title": "fe",
+      "type": "outcome",
+      "value": 0.34,
+      "id": 7
+    },
+    {
+      "title": "teste",
+      "type": "income",
+      "value": 10000.5,
+      "id": 8
+    }
   ]
 }
