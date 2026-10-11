@@ -1,42 +1,6 @@
 {
   "transactions": [
     {
-      "title": "13\" Salário",
-      "type": "income",
-      "value": 150,
-      "id": 1
-    },
-    {
-      "title": "VA",
-      "type": "income",
-      "value": 500,
-      "id": 2
-    },
-    {
-      "id": 3,
-      "title": "Aluguel",
-      "value": 150,
-      "type": "outcome"
-    },
-    {
-      "title": "te",
-      "type": "outcome",
-      "value": 0.5,
-      "id": 4
-    },
-    {
-      "title": "ju",
-      "type": "income",
-      "value": 0.22,
-      "id": 5
-    },
-    {
-      "title": "iooi",
-      "type": "outcome",
-      "value": 465.2,
-      "id": 6
-    },
-    {
       "title": "fe",
       "type": "outcome",
       "value": 0.34,
